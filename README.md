@@ -1,12 +1,18 @@
-##Topological Order
-Task1a has done with DFS approach
-Task1b has done with BFS approach
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Topological Order</h2>
+<p>Task1a has been done with DFS approach</p>
+<p>Task1b has been done with BFS approach</p>
 
-##Lexicographical Topological Order
-Task2 has done with BFS approach
+<h2>Lexicographical Topological Order</h2>
+<p>Task2 has been done with BFS approach</p>
 
-##Strongly Connected Components
-Task3 has done with Kosaraju's Algorithm
+<h2>Strongly Connected Components</h2>
+<p>Task3 has been done with Kosaraju's Algorithm</p>
 
-#All the tasks have input and output text file. All the tasks have done with Python.
-#Question is also attached with the folder.
+<h4>All the tasks have input and output text files. All the tasks have been done with Python.</h4>
+<h4>Question is also attached to the folder.</h4>
+</body>
+</html>
+
